@@ -1,5 +1,4 @@
-# Android-Fingerprint-Authentication
-Android Fingerprint APIs are bringing user authentication to a whole new level, making it fast and secure. Unlocking a phone with a single touch is one of my favorite features in Marshmallow and I really wish there were more apps out there using touch identification. Fingerprint recognition itself is not new, but the OS-level support for it in Android has been much anticipated. In the near future, it’s going to eliminate the need to integrate specific fingerprint SDKs from device manufacturers like Samsung, which, without a doubt, would be a great relief for app developers.
+
 # Android-Fingerprint-Authentication
 Android Fingerprint APIs are bringing user authentication to a whole new level, making it fast and secure. Unlocking a phone with a single touch is one of my favorite features in Marshmallow and I really wish there were more apps out there using touch identification. Fingerprint recognition itself is not new, but the OS-level support for it in Android has been much anticipated. In the near future, it’s going to eliminate the need to integrate specific fingerprint SDKs from device manufacturers like Samsung, which, without a doubt, would be a great relief for app developers.
                                
