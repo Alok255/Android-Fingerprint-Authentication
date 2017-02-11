@@ -2,9 +2,10 @@
     <string name="app_name">FingerPrint</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_fingerprint">One Touch</string>
-    <string name="desc_fingerprint">Please Place your FingerPrint</string>
-    <string name="note">Finger Print sign in is Make Your Login Fast</string>
+    <string name="desc_fingerprint">Please Place your Finger</string>
+    <string name="note">Fingerprint Has Made Your Login Fast And Secure</string>
     <string name="title_activity_home">FingerPrint</string>
     <string name="activity_home_desc">You Have SuccessFully logged in</string>
     <string name="activity_home_note">Close and Reopen The app</string>
+    <string name="icon_des">This is a fingerprint icon</string>
 </resources>

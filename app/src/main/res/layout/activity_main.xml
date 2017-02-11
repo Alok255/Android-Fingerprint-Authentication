@@ -16,13 +16,14 @@
        android:weightSum="1">
 
        <ImageView
-           android:layout_width="100dp"
-           android:layout_height="70dp"
+           android:layout_width="202dp"
+           android:layout_height="0dp"
            android:src="@drawable/ic_action_fingerprint"
            android:id="@+id/icon"
            android:paddingTop="3dp"
            android:layout_marginBottom="20dp"
-           android:layout_weight="0.19" />
+           android:layout_weight="0.38"
+           android:contentDescription="@string/icon_des" />
 
        <TextView
            android:layout_width="wrap_content"
